@@ -13,4 +13,7 @@
 
 
 ## Математическая статистика (Минцифры)
-<img width="1240" height="1755" alt="статистика минцифры_page-0001" src="https://github.com/user-attachments/assets/bd7a41b4-a834-40bc-8a55-b5486da675cd" />
+<img width="1" height="1" alt="изображение" src="https://github.com/user-attachments/assets/c5c6075f-5ba1-433c-a37e-b6e30e26f089" />
+
+
+## Машинное обучение (Минцифры)
