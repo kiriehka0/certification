@@ -13,7 +13,12 @@
 
 
 ## Математическая статистика (Минцифры)
-<img width="1" height="1" alt="изображение" src="https://github.com/user-attachments/assets/c5c6075f-5ba1-433c-a37e-b6e30e26f089" />
+<img width="1240" height="1755" alt="статистика минцифры_page-0001(1)" src="https://github.com/user-attachments/assets/d015cece-025a-429c-bc1b-9f7dca81b523" />
 
 
 ## Машинное обучение (Минцифры)
+<img width="1240" height="1755" alt="машинное обучение минцифры_page-0001" src="https://github.com/user-attachments/assets/5f4e8a11-4e35-4279-8f23-5ce46b11f643" />
+
+
+## PostqreSQL (Минцифры)
+<img width="1240" height="1755" alt="postqresql минцифры_page-0001" src="https://github.com/user-attachments/assets/b5ca141c-dada-4af4-b2d6-461475940831" />
