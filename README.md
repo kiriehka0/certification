@@ -1,4 +1,4 @@
-# 📜 Сертификаты
+# Сертификаты
 
 ## Python-разработчик
 <img width="1241" height="1754" alt="python-разработчик_page-0001" src="https://github.com/user-attachments/assets/d330ccc4-924b-42ce-9a2c-20765faa1a9e" />
